@@ -12,7 +12,7 @@
 
     <artifactId>shared-servlet31</artifactId>
     <name>《Spring Boot 编程思想》共享库 - Servlet 3.1 工程</name>
-
+    <packaging>war</packaging>
 
     <dependencies>
 
